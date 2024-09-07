@@ -1,7 +1,3 @@
-Here’s a revised version of the README file for your Nike website project, tailored to showcase your skills and streamlined for clarity:
-
----
-
 # Nike Landing Page
 
 A React-based Nike landing page built with Tailwind CSS to demonstrate my skills in front-end development.
