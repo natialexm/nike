@@ -39,8 +39,8 @@ This project showcases a Nike landing page built using React and Tailwind CSS. T
 
 2. **Clone the Repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/nike_landing_page.git
-   cd nike_landing_page
+   git clone https://github.com/natialexm/nike.git
+   cd nike
    ```
 
 3. **Install Dependencies**
@@ -53,11 +53,3 @@ This project showcases a Nike landing page built using React and Tailwind CSS. T
    npm start
    ```
    Open [http://localhost:3000](http://localhost:3000) to view the project.
-
-## 🔗 Links
-
-- [Project Repository](https://github.com/YOUR_USERNAME/nike_landing_page)
-
----
-
-Feel free to replace `YOUR_USERNAME` with your GitHub username and adjust any other details as needed.
